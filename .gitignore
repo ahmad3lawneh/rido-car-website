@@ -1,0 +1,6 @@
+.qa/
+.publish-state.json
+node_modules/
+.env
+.env.*
+*.local.json
